@@ -1,5 +1,5 @@
 {
-  "image_name": "cyberdojofoundation/gpp_cgreen:9e5fc8f",
+  "image_name": "cyberdojofoundation/gpp_cgreen:431d077",
   "display_name": "C++ (g++), Cgreen",
   "visible_filenames": [
     "Hiker.cpp",
