@@ -1,4 +1,4 @@
-[![Github Action (master)](https://github.com/cyber-dojo-start-points/gplusplus-cgreen/actions/workflows/main.yml/badge.svg)](https://github.com/cyber-dojo-start-points/gplusplus-cgreen/actions)
+[![GitHub CI](../../actions/workflows/main.yml/badge.svg)](../../actions/workflows/main.yml)
 
 ### display_name="C++ (g++ 15.2.0), Cgreen 1.6.3"
 ### image_name="[ghcr.io/cyber-dojo-languages/gplusplus_cgreen](https://ghcr.io/cyber-dojo-languages/gplusplus_cgreen)"
